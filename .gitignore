@@ -1,0 +1,4 @@
+*.o
+.tags
+lex.yy.c
+myscanner
